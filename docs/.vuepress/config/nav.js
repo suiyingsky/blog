@@ -5,6 +5,8 @@ module.exports = [
     link: '/web/',  //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       {text: '前端文章', items: [
+        {text: 'HTML', link: '/pages/8309a5b876fc95e3/'},
+        {text: 'CSS', link: '/pages/0a83b083bdf257cb/'},
         {text: 'JavaScript', link: '/pages/8143cc480faf9a11/'}, // 这些link是在相应md文件定义的永久链接。另外，注意结尾是有斜杠的
         {text: 'Vue', link: '/pages/802a1ca6f7b71c59/'},
       ]},
@@ -19,11 +21,16 @@ module.exports = [
     ]
   },
   {
-    text: '页面',
-    link: '/ui/',
+    text: '后端',
+    link: '/server/',
     items: [
-      {text: 'HTML', link: '/pages/8309a5b876fc95e3/'},
-      {text: 'CSS', link: '/pages/0a83b083bdf257cb/'},
+      {text: '后端文章', items: [
+          {text: 'Java', link: '/pages/r6ksn70m5x31qdyc/'},
+          {text: 'Spring', link: '/pages/jp9hv04rlf68dqb2/'}
+      ]},
+      {text: '学习笔记', items:[
+        {text: '《Java教程》笔记', link: '/note/java/'}
+      ]}
     ]
   },
   {
