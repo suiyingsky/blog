@@ -20,11 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f13097e-9916-4b63-bb9f-eba8738d884d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/XB-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/server.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/EB-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/tomorrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/00.目录页/02.后端.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/02.后端.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.前端/15.CSS/45.如何根据系统主题自动响应CSS深色模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.前端/15.CSS/45.如何根据系统主题自动响应CSS深色模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.后端/20.Spring/10.Spring相关教程和资料.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.后端/20.Spring/10.Spring相关教程和资料.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.后端/200.学习笔记/10.《Java教程》笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.后端/200.学习笔记/10.《Java教程》笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.更多/99.友情链接.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.更多/99.友情链接.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.关于/01.关于.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.关于/01.关于.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/《Java教程》笔记/01.基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/《Java教程》笔记/01.基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-vdoing/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/theme-vdoing/components/Footer.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +53,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\vuepress-blog\docs\.vuepress\public\img" />
+      <recent name="D:\Workspace\study\vuepress-theme-vdoing\docs\01.前端" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\vuepress-blog\node_modules" />
+      <recent name="D:\Workspace\vuepress-blog\docs\.vuepress\public\img" />
       <recent name="D:\Workspace\study\vuepress-theme-vdoing" />
       <recent name="D:\Workspace\study\vuepress-theme-vdoing\docs" />
       <recent name="D:\Workspace\study\vuepress-theme-vdoing\docs\02.后端" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspace\study\vuepress-theme-vdoing\docs\01.前端" />
     </key>
   </component>
   <component name="RunManager" selected="npm.deploy">
@@ -89,9 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +119,9 @@
       <updated>1605362858750</updated>
       <workItem from="1605362860487" duration="8303000" />
       <workItem from="1605371513153" duration="543000" />
-      <workItem from="1605372833499" duration="146000" />
+      <workItem from="1605372833499" duration="1080000" />
+      <workItem from="1605374034195" duration="53000" />
+      <workItem from="1605414384948" duration="15543000" />
     </task>
     <servers />
   </component>
@@ -133,25 +149,30 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="1008" y="406" key="FileChooserDialogImpl/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605369859742" />
-    <state width="2534" height="361" key="GridCell.Tab.0.bottom" timestamp="1605371455422">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="1894" height="6" key="GridCell.Tab.0.bottom" timestamp="1605443077951">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="2534" height="361" key="GridCell.Tab.0.bottom/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605371455422" />
-    <state width="2534" height="361" key="GridCell.Tab.0.center" timestamp="1605371455422">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="2548" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605373914231" />
+    <state width="1894" height="6" key="GridCell.Tab.0.bottom/0.0.2560.1409/3840.0.1920.1050@3840.0.1920.1050" timestamp="1605443077951" />
+    <state width="1894" height="6" key="GridCell.Tab.0.center" timestamp="1605443077951">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="2534" height="361" key="GridCell.Tab.0.center/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605371455422" />
-    <state width="2534" height="361" key="GridCell.Tab.0.left" timestamp="1605371455422">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="2548" height="397" key="GridCell.Tab.0.center/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605373914231" />
+    <state width="1894" height="6" key="GridCell.Tab.0.center/0.0.2560.1409/3840.0.1920.1050@3840.0.1920.1050" timestamp="1605443077951" />
+    <state width="1894" height="6" key="GridCell.Tab.0.left" timestamp="1605443077951">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="2534" height="361" key="GridCell.Tab.0.left/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605371455422" />
-    <state width="2534" height="361" key="GridCell.Tab.0.right" timestamp="1605371455422">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="2548" height="397" key="GridCell.Tab.0.left/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605373914231" />
+    <state width="1894" height="6" key="GridCell.Tab.0.left/0.0.2560.1409/3840.0.1920.1050@3840.0.1920.1050" timestamp="1605443077951" />
+    <state width="1894" height="6" key="GridCell.Tab.0.right" timestamp="1605443077951">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="2534" height="361" key="GridCell.Tab.0.right/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605371455422" />
-    <state x="902" y="111" width="757" height="931" key="find.popup" timestamp="1605370270977">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="2548" height="397" key="GridCell.Tab.0.right/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605373914231" />
+    <state width="1894" height="6" key="GridCell.Tab.0.right/0.0.2560.1409/3840.0.1920.1050@3840.0.1920.1050" timestamp="1605443077951" />
+    <state x="4776" y="69" width="930" height="730" key="find.popup" timestamp="1605442912252">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state x="902" y="111" width="757" height="931" key="find.popup/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605370270977" />
+    <state x="902" y="111" width="757" height="931" key="find.popup/0.0.2560.1409/3840.0.1920.1050@0.0.2560.1409" timestamp="1605373907039" />
+    <state x="4776" y="69" width="930" height="730" key="find.popup/0.0.2560.1409/3840.0.1920.1050@3840.0.1920.1050" timestamp="1605442912252" />
   </component>
 </project>
