@@ -64,7 +64,7 @@ module.exports = {
       link: 'https://github.com/suiyingsky' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
-      avatar: 'https://cdn.jsdelivr.net/gh/suiyingsky/image_store/picgo/Desktop/2020/11/15/17-34-33-e3694710ff893265d108226a855abccd-timg-5398b2.jpg',
+      avatar: 'https://cdn.jsdelivr.net/gh/suiyingsky/image_store/picgo/image/2020/11/15/23-09-13-e3694710ff893265d108226a855abccd-timg-e8bc64.jpg',
       name: 'suiyingsky',
       slogan: '热爱技术，热爱生活'
     },
